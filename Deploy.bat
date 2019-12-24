@@ -1,0 +1,1 @@
+echo "Executing Deploy script at %date% : %time%"

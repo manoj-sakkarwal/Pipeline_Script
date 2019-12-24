@@ -1,0 +1,1 @@
+echo "Executing Quality script at %date% : %time%"

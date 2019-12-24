@@ -1,0 +1,1 @@
+echo "Executing Test script at %date% : %time%"
